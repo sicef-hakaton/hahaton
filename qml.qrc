@@ -1,0 +1,40 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Debug.qml</file>
+        <file>Home.qml</file>
+        <file>HomeScreen.qml</file>
+        <file>PlannerScreen.qml</file>
+        <file>ClassesScreen.qml</file>
+        <file>Planner.qml</file>
+        <file>ScreenTitle.qml</file>
+        <file>LinksScreen.qml</file>
+        <file>TipsScreen.qml</file>
+        <file>OtherScreen.qml</file>
+        <file>ContactBar.qml</file>
+        <file>ClickableText.qml</file>
+        <file>contactImage.png</file>
+        <file>GradientBar.qml</file>
+        <file>ButtonClass.qml</file>
+        <file>ClickLabel.qml</file>
+        <file>ContextMenu.qml</file>
+        <file>icon-cap.png</file>
+        <file>TFieldStyle.qml</file>
+        <file>Savor.ttf</file>
+        <file>book.png</file>
+        <file>calendar.png</file>
+        <file>link.png</file>
+        <file>note.png</file>
+        <file>watch.png</file>
+        <file>eventindicator.png</file>
+        <file>FileOpener.qml</file>
+        <file>FileOpener2.qml</file>
+        <file>NotesScreen.qml</file>
+        <file>Segoe Script Regular.ttf</file>
+        <file>fractal.jpg</file>
+        <file>NotificationSystem.qml</file>
+        <file>SchedulerScreen.qml</file>
+        <file>sun.png</file>
+        <file>whitecontact.png</file>
+    </qresource>
+</RCC>
