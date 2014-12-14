@@ -6,10 +6,10 @@ Učesnici su imali zadatak da naprave **aplikaciju koja će olakšati studiranje
 
 
 ## Članovi tima
-* Marko Dinić
-* Marko Stevanović
-* Miljan Ivković
-* Nikola Kesić
+* Miloš Živković
+* Milan Stamenković
+* Nemanja Tomašević
+* Nemanja Bartolović
 
 
 ## Opis aplikacije
